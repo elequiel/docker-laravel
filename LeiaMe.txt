@@ -1,0 +1,4 @@
+O docker compose deve ser inserido dentro da pasta do projeto laravel e execultado a partir dele
+com isso será gerado o banco de dados, junto com redis e também o servidor web nginx
+
+# docker-compose up -d
